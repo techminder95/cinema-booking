@@ -1,5 +1,5 @@
 <h1 align="center">
-Cinema +
+Cinema Booking
 </h1>
 <p align="center">
 MongoDB, Expressjs, React/Redux, Nodejs
